@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  background-image: url('../public/background.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Pistilli Roman';
+}
